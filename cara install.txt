@@ -1,0 +1,6 @@
+Cara install
+
+- Buat database di phpmyadmin bernama "klinik"
+- Masuk ke DB klinik, Import file klinik.sql ke dalam db klinik
+- Extract File sisklin.zip ini kedalam folder htdocs anda.
+- Buka di browser https://localhost/sisklin
